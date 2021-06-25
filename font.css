@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'Gmarket Sans';
+    font-weight: 300;
+    font-style: normal;
+    src: local('Gmarket Sans'),
+        url('GmarketSansTTFMedium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Gmarket Sans';
+    font-weight: lighter;
+    font-style: normal;
+    src: local('Gmarket Sans'),
+        url('GmarketSansTTFLight.ttf') format('truetype');
+}
+
+
+
+@font-face {
+    font-family: 'Gmarket Sans';
+    font-weight: bold;
+    font-style: normal;
+    src: local('Gmarket Sans'),
+        url('GmarketSansTTFBold.ttf') format('truetype');
+}
